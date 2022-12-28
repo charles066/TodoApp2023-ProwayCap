@@ -1,7 +1,7 @@
 # TodoApp 2022 Proway + STARTE Capgemini
 <h3>Aplicação de projetos e tarefas criada conjuntamente com o professor Marcio Michelluzzi(ProWay) no programa START Capgemini!</h3>
 
-Este projeto foi no curso de aprendizado do programa START da Capgemini, no qual, prepara brasileiros para o mercado de trabalho em programação
+Este projeto foi criado no curso de aprendizado do programa START da Capgemini, no qual, prepara brasileiros para o mercado de trabalho em programação
 
 O TodoApp possui todas as caracteristicas principais de uma aplicação JAVA, usando todos os paradigamas do POO
 
